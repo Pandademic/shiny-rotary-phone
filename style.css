@@ -1,0 +1,34 @@
+#app{
+    width: 100%;
+    height: 800px;
+    background-color: beige;
+    
+}
+.line{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}body{
+    text-align: center;
+}
+#spritelab{
+    width: 100%;
+    height: 800px;
+    background-color: beige;
+    
+}
+img{
+    transition: transform .2s;
+    
+}
+img:hover{
+    transform: scale(0.9);
+}
+
+#chatmasala{
+    width: 100%;
+    height: 800px;
+    background-color: beige;
+    
+}
